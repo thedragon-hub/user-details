@@ -1,0 +1,22 @@
+/* src/App.css */
+div {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+p {
+  margin: 5px 0;
+}
